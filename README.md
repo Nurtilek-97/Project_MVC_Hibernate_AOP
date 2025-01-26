@@ -1,9 +1,13 @@
-Тестовый проект MVC+Hibernate+AOP
+Тестовый проект MVC+Hibernate+AOP 
+Проект выводит на страницу список работников: 
+1) Имя, Фамилию, Департамент, Зарплату. Также можно удалять и обновлять данные или же добавлять новых работников.
 
 Стэк проекта: 
 1) Java 8
 2) Hibernate
 3) Maven
-4) Jstl
-5) Аннотацию Service и DAO
-6) Model (jsp files) 
+4) MySQL
+5) Jstl
+6) Аннотацию Service и DAO
+7) Model (jsp files)
+8) TomCat
