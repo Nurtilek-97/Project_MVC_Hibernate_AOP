@@ -11,3 +11,7 @@
 6) Аннотацию Service и DAO
 7) Model (jsp files)
 8) TomCat
+
+Результат запуска проекта:
+![image](https://github.com/user-attachments/assets/73e1d715-6388-4a1d-b96e-a854d35835d4)
+
