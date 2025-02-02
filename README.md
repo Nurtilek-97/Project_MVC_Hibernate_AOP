@@ -8,7 +8,7 @@
 3) Maven
 4) MySQL
 5) Jstl
-6) Аннотацию Service и DAO
+6) Аннотации Service и DAO
 7) Model (jsp files)
 8) TomCat
 
